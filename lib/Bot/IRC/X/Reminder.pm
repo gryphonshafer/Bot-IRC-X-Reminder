@@ -1,6 +1,7 @@
 package Bot::IRC::X::Reminder;
 # ABSTRACT: Bot::IRC plugin for scheduling reminders
 
+use 5.012;
 use strict;
 use warnings;
 
