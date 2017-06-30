@@ -136,6 +136,8 @@ sub init {
                 $bot->store->set( 'reminders' => \@reminders );
                 $bot->reply_to('OK.');
             }
+
+            return 1;
         },
     );
 
