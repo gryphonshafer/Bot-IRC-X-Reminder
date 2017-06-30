@@ -64,7 +64,7 @@ sub init {
                 repeat => ( ( lc( $m->{type} ) eq 'every' ) ? 1 : 0 ),
                 text   => $m->{text},
                 expr   => $expr,
-                time   => time() + $lapse,
+                time   => ( ($lapse) ? time() + $lapse : undef ),
                 lapse  => $lapse,
             } );
             $bot->store->set( 'reminders' => \@reminders );
