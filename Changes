@@ -1,6 +1,8 @@
 Revision history for Bot::IRC::X::Reminder
 
 {{$NEXT}}
+
+1.02      2017-06-30 11:19:47-04:00 America/New_York
         - Fix bug where sometimes captured hook doesn't authoritatively answer
           the input and lets subsequent hooks fire
 
