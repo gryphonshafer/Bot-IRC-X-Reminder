@@ -1,6 +1,7 @@
 Revision history for Bot::IRC::X::Reminder
 
 {{$NEXT}}
+        - Adding Perl versions to test; annual general update for 2018
 
 1.03      2017-06-30 11:39:28-04:00 America/New_York
         - Fix crontab-style date expression being interpreted as now + 0 seconds
