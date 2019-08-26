@@ -78,16 +78,16 @@ There are a couple of helper functions you can call as well.
 
 You can list all of your reminders or all reminders from anyone.
 
-    bot list my reminders
-    bot list all reminders
+    bot reminders list mine
+    bot reminders list all
 
 ## forget reminders
 
 You can tell the bot to forget all of your reminders or all reminders from
 everyone.
 
-    bot forget my reminders
-    bot forget all reminders
+    bot reminders forget mine
+    bot reminders forget all
 
 # SEE ALSO
 
