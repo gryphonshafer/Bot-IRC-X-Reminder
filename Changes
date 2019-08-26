@@ -1,6 +1,8 @@
 Revision history for Bot::IRC::X::Reminder
 
 {{$NEXT}}
+
+1.04      2019-08-26 16:42:41-07:00 America/Los_Angeles
         - Adding Perl versions to test; annual general update for 2018
         - Fix being able to forget reminders; closes #1
 
