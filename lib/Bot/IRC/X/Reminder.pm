@@ -247,9 +247,7 @@ You can look for additional information at:
 =for :list
 * L<Bot::IRC>
 * L<GitHub|https://github.com/gryphonshafer/Bot-IRC-X-Reminder>
-* L<CPAN|http://search.cpan.org/dist/Bot-IRC-X-Reminder>
 * L<MetaCPAN|https://metacpan.org/pod/Bot::IRC::X::Reminder>
-* L<AnnoCPAN|http://annocpan.org/dist/Bot-IRC-X-Reminder>
 * L<Travis CI|https://travis-ci.org/gryphonshafer/Bot-IRC-X-Reminder>
 * L<Coveralls|https://coveralls.io/r/gryphonshafer/Bot-IRC-X-Reminder>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/Bot-IRC-X-Reminder>
