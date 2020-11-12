@@ -155,8 +155,8 @@ __END__
 =begin :badges
 
 =for markdown
-[![Build Status](https://travis-ci.org/gryphonshafer/Bot-IRC-X-Reminder.svg)](https://travis-ci.org/gryphonshafer/Bot-IRC-X-Reminder)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Bot-IRC-X-Reminder/badge.png)](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-Reminder)
+[![build](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Reminder/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Reminder)
 
 =end :badges
 
@@ -248,8 +248,8 @@ You can look for additional information at:
 * L<Bot::IRC>
 * L<GitHub|https://github.com/gryphonshafer/Bot-IRC-X-Reminder>
 * L<MetaCPAN|https://metacpan.org/pod/Bot::IRC::X::Reminder>
-* L<Travis CI|https://travis-ci.org/gryphonshafer/Bot-IRC-X-Reminder>
-* L<Coveralls|https://coveralls.io/r/gryphonshafer/Bot-IRC-X-Reminder>
+* L<GitHub Actions|https://github.com/gryphonshafer/Bot-IRC-X-Reminder/actions>
+* L<Codecov|https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Reminder>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/Bot-IRC-X-Reminder>
 * L<CPAN Testers|http://www.cpantesters.org/distro/T/Bot-IRC-X-Reminder.html>
 
