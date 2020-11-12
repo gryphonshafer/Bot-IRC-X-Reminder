@@ -4,10 +4,10 @@ Bot::IRC::X::Reminder - Bot::IRC plugin for scheduling reminders
 
 # VERSION
 
-version 1.04
+version 1.05
 
-[![Build Status](https://travis-ci.org/gryphonshafer/Bot-IRC-X-Reminder.svg)](https://travis-ci.org/gryphonshafer/Bot-IRC-X-Reminder)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Bot-IRC-X-Reminder/badge.png)](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-Reminder)
+[![build](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Reminder/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Reminder)
 
 # SYNOPSIS
 
@@ -20,7 +20,7 @@ version 1.04
 
 # DESCRIPTION
 
-This [Bot::IRC](https://metacpan.org/pod/Bot::IRC) plugin is for scheduling reminders. You can ask the bot to
+This [Bot::IRC](https://metacpan.org/pod/Bot%3A%3AIRC) plugin is for scheduling reminders. You can ask the bot to
 remind someone about something at some future time. If the nick who needs to
 be reminded isn't online at the time of the reminder, the reminder isn't issued.
 
@@ -93,13 +93,11 @@ everyone.
 
 You can look for additional information at:
 
-- [Bot::IRC](https://metacpan.org/pod/Bot::IRC)
+- [Bot::IRC](https://metacpan.org/pod/Bot%3A%3AIRC)
 - [GitHub](https://github.com/gryphonshafer/Bot-IRC-X-Reminder)
-- [CPAN](http://search.cpan.org/dist/Bot-IRC-X-Reminder)
 - [MetaCPAN](https://metacpan.org/pod/Bot::IRC::X::Reminder)
-- [AnnoCPAN](http://annocpan.org/dist/Bot-IRC-X-Reminder)
-- [Travis CI](https://travis-ci.org/gryphonshafer/Bot-IRC-X-Reminder)
-- [Coveralls](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-Reminder)
+- [GitHub Actions](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/actions)
+- [Codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Reminder)
 - [CPANTS](http://cpants.cpanauthors.org/dist/Bot-IRC-X-Reminder)
 - [CPAN Testers](http://www.cpantesters.org/distro/T/Bot-IRC-X-Reminder.html)
 
@@ -109,7 +107,7 @@ Gryphon Shafer <gryphon@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2018 by Gryphon Shafer.
+This software is copyright (c) 2021 by Gryphon Shafer.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
