@@ -6,7 +6,7 @@ Bot::IRC::X::Reminder - Bot::IRC plugin for scheduling reminders
 
 version 1.05
 
-[![build](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/actions?query=workflow%3Abuild)
+[![test](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/workflows/test/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-Reminder/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Reminder/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Reminder)
 
 # SYNOPSIS
