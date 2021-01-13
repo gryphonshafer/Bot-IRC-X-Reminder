@@ -1,6 +1,8 @@
 Revision history for Bot::IRC::X::Reminder
 
 {{$NEXT}}
+
+1.06      2021-01-13 11:08:12-08:00 America/Los_Angeles
         - Override some minimum version reqs in dist.ini
 
 1.05      2021-01-12 08:37:26-08:00 America/Los_Angeles
